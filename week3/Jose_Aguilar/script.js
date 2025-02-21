@@ -3,4 +3,4 @@ function addOneToCounter(){
     parseInt(document.getElementById("counter").innerText) + 1;
 }
 
-console.log("Hello! I'm Jose Aguilar. This does not need Execution.");
+console.log("Hello! I'm Jose Aguilar");
